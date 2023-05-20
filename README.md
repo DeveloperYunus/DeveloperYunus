@@ -12,7 +12,7 @@ My other interests,
 
 📫 How to reach me 
 - Linked.in: https://www.linkedin.com/in/yunus-emre-kehribar-808535223
-- Gmail    : yunusek55@gmail.com
+- Gmail    : yemrework@gmail.com
 
 <!---
 DeveloperYunus/DeveloperYunus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
