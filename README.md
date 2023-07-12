@@ -1,4 +1,4 @@
-👋 Hi, I’m Yunus Emre from Trabzon/Turkey.
+👋 Hi, I’m Yunus Emre from Istanbul/TÜRKİYE.
 
 👀 I’m interested in Unity and Unreal Engine.
 
